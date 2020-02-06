@@ -719,4 +719,3 @@
 	```
  6. 用户名密码验证连接
 ![在这里插入图片描述](https://upload-images.jianshu.io/upload_images/16010551-0b635d20b3de1c70?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
